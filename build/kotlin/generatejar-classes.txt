@@ -1,0 +1,1 @@
+/Users/antosha/IdeaProjects/MyScore/lab2/build/classes/kotlin/main/MainKt.class
